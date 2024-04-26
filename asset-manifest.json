@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TasteHorizon-week9/static/css/main.86fba837.css",
+    "main.js": "/TasteHorizon-week9/static/js/main.aa6a9664.js",
+    "static/js/453.5a732a82.chunk.js": "/TasteHorizon-week9/static/js/453.5a732a82.chunk.js",
+    "static/media/applogo.png": "/TasteHorizon-week9/static/media/applogo.86d3bc311fca43f8b23c.png",
+    "index.html": "/TasteHorizon-week9/index.html",
+    "main.86fba837.css.map": "/TasteHorizon-week9/static/css/main.86fba837.css.map",
+    "main.aa6a9664.js.map": "/TasteHorizon-week9/static/js/main.aa6a9664.js.map",
+    "453.5a732a82.chunk.js.map": "/TasteHorizon-week9/static/js/453.5a732a82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fba837.css",
+    "static/js/main.aa6a9664.js"
+  ]
+}
